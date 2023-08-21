@@ -2,7 +2,7 @@
   "name": "2do-app",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://127.0.0.1:5000/",
+  "proxy": "https://capstone-2doapp-backend-ecc11b2f954a.herokuapp.com/",
   "engines": {
     "node": "14.21.3",
     "npm": "9.8.1"
